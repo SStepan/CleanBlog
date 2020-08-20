@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/CleanBlog/App_Data
+/CleanBlog/Umbraco
